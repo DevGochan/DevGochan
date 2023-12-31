@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://solved.ac/devgochan">
-    <img height="170" src="http://mazassumnida.wtf/api/generate_badge?boj=doo620" alt="Solved.ac Profile"/>
+    <img height="170" src="http://mazassumnida.wtf/api/generate_badge?boj=devgochan" alt="Solved.ac Profile"/>
   </a>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hunc&layout=compact" alt="Top Langs"/>
 </div>

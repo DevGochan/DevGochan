@@ -4,7 +4,7 @@
   <a href="https://solved.ac/devgochan">
     <img height="170" src="http://mazassumnida.wtf/api/generate_badge?boj=devgochan" alt="Solved.ac Profile"/>
   </a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGochan&layout=compact)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=DevGochan&layout=compact
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGochan&layout=compact" alt="Top Langs"/>
 </div>
 
